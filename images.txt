@@ -3,6 +3,6 @@ nginx
 elestio/memos:latest
 xhofe/alist:latest
 imaegoo/twikoo:latest
-hortio/blynk:latest
+mpherg/blynk-server
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
