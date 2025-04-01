@@ -4,5 +4,6 @@ elestio/memos:latest
 xhofe/alist:latest
 imaegoo/twikoo:latest
 mpherg/blynk-server:latest
+hokori/blynk-server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
