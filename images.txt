@@ -1,5 +1,5 @@
 #支持私库
-elestio/memos:latest
+neosmemo/memos:stable
 imaegoo/twikoo:latest
 mpherg/blynk-server:latest
 #支持指定架构
